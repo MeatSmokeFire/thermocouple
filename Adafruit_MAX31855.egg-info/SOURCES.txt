@@ -1,0 +1,8 @@
+setup.py
+Adafruit_MAX31855/MAX31855.py
+Adafruit_MAX31855/__init__.py
+Adafruit_MAX31855.egg-info/PKG-INFO
+Adafruit_MAX31855.egg-info/SOURCES.txt
+Adafruit_MAX31855.egg-info/dependency_links.txt
+Adafruit_MAX31855.egg-info/requires.txt
+Adafruit_MAX31855.egg-info/top_level.txt

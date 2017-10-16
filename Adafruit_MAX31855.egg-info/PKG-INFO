@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Adafruit-MAX31855
+Version: 1.6.1
+Summary: Library for accessing the MAX31855 thermocouple temperature sensor on a Raspberry Pi or Beaglebone Black.
+Home-page: https://github.com/adafruit/Adafruit_Python_MAX31855/
+Author: Tony DiCola
+Author-email: tdicola@adafruit.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
